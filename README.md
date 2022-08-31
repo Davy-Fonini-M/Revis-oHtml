@@ -1,5 +1,5 @@
 # Trilha HTML - Dio.me
-## Módulo 01 - Primeiros passos com HTML
+## Módulo 01 - Revisão HTML
 
 <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
